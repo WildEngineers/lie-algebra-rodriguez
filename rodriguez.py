@@ -2,7 +2,7 @@
 """
 Created on Tue Jun  7 18:07:35 2016
 
-@author: agniv
+@author: Dliw Sreenigne
 """
 import numpy
 import math
